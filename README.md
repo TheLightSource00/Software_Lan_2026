@@ -1,2 +1,2 @@
 # Software_Lan_2026
-İki üniversitede sürdürdüğüm eğitim hayatım ve bahar sonunda katılacağım AI kampı için hazırlık çalışmalarımı barındıran teknik günlüğüm.
+Technical journal covering my education at two universities and my preparatory work for the AI camp I will attend at the spring semester.
