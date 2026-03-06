@@ -1,10 +1,10 @@
 # Veri Yapıları ve Algoritma Temelleri
-# Bu dosya akademik gelişim sürecimi temsil eder.
+# Bu dosya akademik gelisim sürecimi temsil eder.
 
-class AkademikGelişim:
+class AkademikGelisim:
     def __init__(self):
         self.profil = {
-            "durum": "Çift Üniversite",
+            "durum": "Cift Universite",
             "hedef": "AI & Big Data Expert",
             "plan": "Bahar dönemi sonu AI Camp başlangıcı"
         }
@@ -15,5 +15,5 @@ class AkademikGelişim:
           print (f"{anahtar.capitalize()}: {deger}")
 
 if__name__ == "__main__":
-   gelişim = AkademikGelişim()
+   gelişim = AkademikGelisim()
    gelişim.hedef_goster()
