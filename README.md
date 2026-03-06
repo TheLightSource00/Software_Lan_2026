@@ -10,3 +10,14 @@ Technical journal covering my education at two universities and my preparatory w
 ## 🛠 Repository Content
    data_structures.py  Object-Oriented Programming (OOP) and data management logic.
    plan.py:  Academic and technical growth timeline for 2026.
+
+---
+
+### 📊 GitHub Stats & Skills 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheLightSource00&show_icons=true&theme=radical" alt="GitHub Stats"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheLightSource00&layout=compact&theme=radical" alt="Top Languages"  />
+</p>
+
+## 🚀 On My Way to Goals
+Currently focusing on dual-degree university education and AI bootcamp preparations.
