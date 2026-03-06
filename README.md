@@ -8,6 +8,7 @@ Technical journal covering my education at two universities and my preparatory w
    Focus:  Python, Data structures, and Big Data Analytics.
 
 ## 🛠 Repository Content
+
    data_structures.py  Object-Oriented Programming (OOP) and data management logic.
    plan.py:  Academic and technical growth timeline for 2026.
 
@@ -21,3 +22,5 @@ Technical journal covering my education at two universities and my preparatory w
 
 ## 🚀 On My Way to Goals
 Currently focusing on dual-degree university education and AI bootcamp preparations.
+
+![snake](https://raw.githubusercontent.com/TheLightSource00/Software_Lan_2026/output/github-contribution-grid-snake.svg)
