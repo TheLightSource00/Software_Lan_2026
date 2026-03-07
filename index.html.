@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>TheLightSource00 Portfolyo</title>
+<style>
+    body { font-family: Arial, sans-serif; background-color: #f4f4f4; text-align: center; }
+    .card { background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: inline-block; margin-top: 50px; }
+    h1 { color: #2c3e50; }
+    .gpa { color: #27ae60; font-weight: bold; font-size: 24px; }
+    .tech { color: #2980b9; }
+</style>
+</head>
+<body>
+    <div class="card">
+        <h1>Dijital Portfolyo</h1>
+        <p>İktisat & Yazılım Geliştirici</p>
+        <p class="gpa">Mevcut Başarı: 3.93/4.00 GPA</p>
+        <p class="tech">Focus: HTML, CSS, Python, Finansal Veri Analizi</p>
+        <p><i>"Veri ve Tasarımın Buluştuğu Nokta"</i></p>
+    </div>
+</body>
+</html>
