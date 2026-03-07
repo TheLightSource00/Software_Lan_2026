@@ -1,0 +1,24 @@
+# Veri Yapıları ve Algoritmik Yönetim Modülü
+# Yazarı: TheLightSource00
+
+class VeriYoneticisi:
+    """Verileri sıralayan ve analiz eden profesyonel modül"""
+    def __init__(self, veri_listesi):
+        self.veriler = veri_listesi
+
+    def veriyi_sirala(self):
+        """Basit bir sıralama algoritması (Bubble Sort mantığı)"""
+        n = len(self.veriler)
+        for i in range(n):
+            for j in range(0, n-i-1):
+                if self.veriler[j] > self.veriler[j+1]:
+                    self.veriler[j], self.veriler[j+1] = self.veriler[j+1], self.veriler[j]
+        return self.veriler
+
+# Örnek Kullanım (Akademik Veriler)
+notlar = [3.93, 3.50, 4.00, 2.80, 3.85]
+yonetici = VeriYoneticisi(notlar)
+
+print("--- Algoritmik Veri Analiz Başlatıldı ---")
+print(f"Ham Veri Seti: {notlar}")
+print(f"Sıralanmış Başarı Listesi: {yonetici.veriyi_sirala()}")
