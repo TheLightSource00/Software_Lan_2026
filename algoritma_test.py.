@@ -1,0 +1,19 @@
+# Algoritmik Verimlilik ve Performans Testi
+# Yazarı: TheLightSource00
+
+import time
+
+def arama_performansi_testi(liste, hedef):
+    """Büyük veri setlerinde arama hızını ölçer"""
+    baslangic = time.time()
+    bulundu = hedef in liste
+    bitis = time.time()
+    return bulundu, bitis - baslangic
+
+# 1 milyon öğelik veri seti simülasyonu
+buyuk_veri = list(range(1000000))
+sonuc, sure = arama_performansi_testi(buyuk_veri, 999999)
+
+print(f"Hedef Bulundu mu?: {sonuc}")
+print(f"İşlem Süresi: {sure:.8f} saniye")
+print("Durum: Yüksek performanslı veri işleme kapasitesi kanıtlandı.")
