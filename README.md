@@ -53,5 +53,17 @@ Akademik dürüstlük ve veri hassasiyeti çerçevesinde aşağıdaki alanlarda 
 
 > **Not:** 3.93 GPA ve çok yönlü eğitim geçmisimle, karmaşık projelerde yüksek doğruluk payı ile çalışmaktayım.
 
+### 📊 Dashboard Çıktı Örneği (Terminal Preview)
+```text
+============================================================
+      EKONOMETRİK VERİ ANALİZ VE TAKİP PANELİ v1.0      
+============================================================
+DÖNEM      | BÜYÜME (%)      | GRAFİKSEL GÖSTERİM
+------------------------------------------------------------
+Ocak       | %3.42           | █████████████████
+Şubat      | %4.15           | ████████████████████
+Mart       | %2.80           | ██████████████
+------------------------------------------------------------
+
 
 ![snake](https://raw.githubusercontent.com/TheLightSource00/Software_Lan_2026/output/github-contribution-grid-snake.svg)
