@@ -23,13 +23,15 @@ Technical journal covering my education at two universities and my preparatory w
 ## 🚀 On My Way to Goals
 Currently focusing on dual-degree university education and AI bootcamp preparations.
 
-### 🎓 Akademik ve Teknik Yetkinlik Özeti
+### 🎓 Akademik, Teknik ve Mesleki Yetkinlik Özeti
+
 | Kategori | Detaylar |
 | :--- | :--- |
 | **Lisans Eğitimi** | İktisat (3. Sınıf - Devam Ediyor) |
 | **Önlisans Eğitimi** | Web Tasarım ve Kodlama (1. Sınıf - **3.93/4.00 GPA**) |
 | **Mezuniyet** | Bankacılık ve Sigortacılık (Önlisans Mezunu) |
-| **Teknik Odak** | Veri Yapıları, Finansal Analiz ve AI Hazırlık |
+| **Sertifikalar** | Bilişim Teknolojileri, Hasta Kabul & Hastane Sekreterliği |
+| **Teknik Odak** | Algoritmik Veri Yapıları, Ekonometrik Veri Analizi ve Uygulamalı AI |
 | **Proje Dizini** | `kaynak/` (Profesyonel Python Modülleri) |
 
 ---
