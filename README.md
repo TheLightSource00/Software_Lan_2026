@@ -23,8 +23,6 @@ Technical journal covering my education at two universities and my preparatory w
 ## 🚀 On My Way to Goals
 Currently focusing on dual-degree university education and AI bootcamp preparations.
 
-![snake](https://raw.githubusercontent.com/TheLightSource00/Software_Lan_2026/output/github-contribution-grid-snake.svg)
-
 ### 🎓 Akademik ve Teknik Yetkinlik Özeti
 | Kategori | Detaylar |
 | :--- | :--- |
@@ -35,3 +33,5 @@ Currently focusing on dual-degree university education and AI bootcamp preparati
 | **Proje Dizini** | `kaynak/` (Profesyonel Python Modülleri) |
 
 ---
+
+![snake](https://raw.githubusercontent.com/TheLightSource00/Software_Lan_2026/output/github-contribution-grid-snake.svg)
