@@ -24,3 +24,14 @@ Technical journal covering my education at two universities and my preparatory w
 Currently focusing on dual-degree university education and AI bootcamp preparations.
 
 ![snake](https://raw.githubusercontent.com/TheLightSource00/Software_Lan_2026/output/github-contribution-grid-snake.svg)
+
+### 🎓 Akademik ve Teknik Yetkinlik Özeti
+| Kategori | Detaylar |
+| :--- | :--- |
+| **Lisans Eğitimi** | İktisat (3. Sınıf - Devam Ediyor) |
+| **Önlisans Eğitimi** | Web Tasarım ve Kodlama (1. Sınıf - **3.93/4.00 GPA**) |
+| **Mezuniyet** | Bankacılık ve Sigortacılık (Önlisans Mezunu) |
+| **Teknik Odak** | Veri Yapıları, Finansal Analiz ve AI Hazırlık |
+| **Proje Dizini** | `kaynak/` (Profesyonel Python Modülleri) |
+
+---
