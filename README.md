@@ -37,14 +37,14 @@ Currently focusing on dual-degree university education and AI bootcamp preparati
 ---
 
 
-## 🤝 Profesyonel İş Birliği ve Araştırma (Academic Collaboration)
+## 🤝 Profesyonel İs Birliği ve Arastırma (Academic Collaboration)
 
 Akademik dürüstlük ve veri hassasiyeti çerçevesinde aşağıdaki alanlarda iş birliğine açığım:
 * **Veri Analizi:** İktisat ve Finans odaklı veri setlerinin Python ile işlenmesi.
 * **Yapay Zeka Testleri:** Geliştirilmekte olan AI modelleri için kullanıcı deneyimi ve teknik geri bildirim.
 * **Akademik Anketler:** Disiplinli ve yüksek dikkat seviyesi gerektiren bilimsel çalışmalar.
 
-> **Not:** 3.93 GPA ve çok yönlü eğitim geçmişimle, karmaşık projelerde yüksek doğruluk payı ile çalışmaktayım.
+> **Not:** 3.93 GPA ve çok yönlü eğitim geçmisimle, karmaşık projelerde yüksek doğruluk payı ile çalışmaktayım.
 
 
 ![snake](https://raw.githubusercontent.com/TheLightSource00/Software_Lan_2026/output/github-contribution-grid-snake.svg)
