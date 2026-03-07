@@ -1,0 +1,17 @@
+# Sağlık Teknolojileri - Hasta Kayıt ve Yönetim Simülasyonu
+# Yazarı: TheLightSource00
+
+class HastaneYonetimi:
+    def __init__(self):
+        self.kayitlar = {}
+
+    def hasta_ekle(self, tc, ad, poliklinik):
+        self.kayitlar[tc] = {"Ad": ad, "Bölüm": poliklinik}
+        print(f"Kayıt Başarılı: {ad} -> {poliklinik} servisine yönlendirildi.")
+
+# Sertifikalı uzman simülasyonu başlatılıyor
+sistem = HastaneYonetimi()
+sistem.hasta_ekle("12345678901", "Örnek Hasta", "Kardiyoloji")
+sistem.hasta_ekle("98765432109", "Test Kullanıcısı", "Dahiliye")
+
+print(f"\nGüncel Toplam Hasta Sayısı: {len(sistem.kayitlar)}")
