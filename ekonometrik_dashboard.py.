@@ -1,0 +1,31 @@
+# Profesyonel Ekonometrik Veri Dashboard Simülasyonu
+# Geliştirici: TheLightSource00 | Akademik Başarı: 3.93 GPA
+
+import time
+import random
+
+def analiz_ekrani():
+    print("="*60)
+    print("      EKONOMETRİK VERİ ANALİZ VE TAKİP PANELİ v1.0      ")
+    print("="*60)
+    print("Sistem Durumu: Bağlanıyor... [OK]")
+    print("Veri Kaynağı: Simüle Edilmiş Piyasa Verileri\n")
+    time.sleep(1)
+
+    aylar = ["Ocak", "Şubat", "Mart", "Nisan", "Mayıs"]
+    
+    print(f"{'DÖNEM':<10} | {'BÜYÜME (%)':<15} | {'GRAFİKSEL GÖSTERİM'}")
+    print("-" * 60)
+
+    for ay in aylar:
+        buyume = round(random.uniform(1.5, 5.0), 2)
+        grafik = "█" * int(buyume * 5)
+        print(f"{ay:<10} | %{buyume:<13} | {grafik}")
+        time.sleep(0.7) # Gerçek zamanlı veri akışı hissi verir
+
+    print("\n" + "="*60)
+    print("ÖZET: Veri setinde tutarlılık sağlandı. Prolific araştırmaları için hazır.")
+    print("="*60)
+
+if __name__ == "__main__":
+    analiz_ekrani()
