@@ -1,4 +1,7 @@
 # Software_Lan_2026
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLightSource00&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=5)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheLightSource00&show_icons=true&theme=vision-friendly-dark&hide_border=true)
 
 Technical journal covering my education at two universities and my preparatory work for the AI camp I will attend at the spring semester.
 
