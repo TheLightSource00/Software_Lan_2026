@@ -60,8 +60,5 @@ Akademik dürüstlük ve veri hassasiyeti çerçevesinde aşağıdaki alanlarda 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheLightSource00&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheLightSource00&show_icons=true&theme=dark&hide_border=false" alt="TheLightSource00 GitHub Stats" />
-</p>
 
 ![snake](https://raw.githubusercontent.com/TheLightSource00/Software_Lan_2026/output/github-contribution-grid-snake.svg)
