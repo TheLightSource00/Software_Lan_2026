@@ -8,34 +8,30 @@
 </head>
 <body>
     <header>
-        <h1>Yazılım ve Veri Analizi Portfolyosu</h1>
-        <p>İktisat & Web Tasarımı ve Kodlama Öğrencisi</p>
+        <h1>Software & Data Analysis Portfolio</h1>
+        <p>Economics & Web Design and Coding Student</p>
     </header>
 
     <main>
         <section id="about">
-            <h2>Academic Background</h2>
+            <h2>Academic Profile</h2>
             <p>I am currently pursuing dual degrees in **Economics** and **Web Design and Coding**.</p>
-            <p>Academic Excellence: **3.93 / 4.00 GPA** in Web Design and Coding.</p>
+            <p>Academic Standing: **3.93 / 4.00 GPA**.</p>
         </section>
 
-        <section id="projects">
-            <h2>Technical Focus</h2>
-            <ul>
-                <li>Python Programming & Data Structures</li>
-                <li>Big Data Analytics & Econometric Modeling</li>
-                <li>Applied Artificial Intelligence</li>
-            </ul>
+        <section id="goals">
+            <h2>Future Roadmap</h2>
+            <p>Enrolling in a **Professional Artificial Intelligence Boot Camp** following the Spring semester.</p>
+            <p>Focus Areas: Python, Advanced Data Structures, and Big Data Analytics.</p>
         </section>
     </main>
 
     <div style="display:none;">
-        <h3>Technical Documentation and Roadmap</h3>
-        <p>Following the Spring semester, I will begin a Professional Artificial Intelligence Boot Camp.</p>
-        <p>My project 'İshak Light House 3' focuses on advanced system architectures.</p>
-        <p>This repository includes modules like data_structures.py, ekonometrik_analiz.py, and plan.py.</p>
-        <p>The integration of economic theory with software development allows for high-precision data analysis.</p>
-        <p>Continuous learning in Python, NumPy, and Pandas for future AI implementations.</p>
+        <p>This repository showcases technical studies in Python and Web Development.</p>
+        <p>Advanced implementations of data structures and algorithmic efficiency.</p>
+        <p>Integration of economic modeling with modern software engineering practices.</p>
+        <p>Professional development in Big Data Analytics and AI frameworks.</p>
+        <p>Comprehensive portfolio for software engineering and data analysis roles.</p>
     </div>
 </body>
 </html>
