@@ -40,9 +40,6 @@ Akademik dürüstlük ve veri hassasiyeti çerçevesinde aşağıdaki alanlarda 
 
 > **Not:** 3.93 GPA ve çok yönlü eğitim geçmisimle, karmaşık projelerde yüksek doğruluk payı ile çalışmaktayım.
 >
-> ### 📈 GitHub İstatistiklerim
-![TheLightSource00's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLightSource00&show_icons=true&theme=radical)
-
 >
 > ### 🛠 Teknoloji Yığıni (Stack)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
