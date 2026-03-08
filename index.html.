@@ -5,33 +5,38 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Software & Data Analysis Portfolio</title>
     <link rel="stylesheet" href="style.css">
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; max-width: 800px; margin: auto; padding: 20px; }
+        .highlight { color: #2c3e50; font-weight: bold; }
+    </style>
 </head>
 <body>
     <header>
-        <h1>Software & Data Analysis Portfolio</h1>
-        <p>Economics & Web Design and Coding Student</p>
+        <h1>Yazılım ve Veri Analizi Portföyü</h1>
+        <p>Ekonomi, Web Tasarımı ve Kodlama Öğrencisi</p>
     </header>
 
     <main>
         <section id="about">
-            <h2>Academic Profile</h2>
-            <p>I am currently pursuing dual degrees in **Economics** and **Web Design and Coding**.</p>
-            <p>Academic Standing: **3.93 / 4.00 GPA**.</p>
+            <h2>Akademik Profil</h2>
+            <p>Şu anda **Ekonomi** ve **Web Tasarımı ve Kodlama** alanlarında çift anadal yapıyorum.</p>
+            <p>Akademik Başarı Durumu: **3.93 / 4.00 Not Ortalaması**.</p>
         </section>
 
         <section id="goals">
-            <h2>Future Roadmap</h2>
-            <p>Enrolling in a **Professional Artificial Intelligence Boot Camp** following the Spring semester.</p>
-            <p>Focus Areas: Python, Advanced Data Structures, and Big Data Analytics.</p>
+            <h2>Gelecek Yol Haritası</h2>
+            <p>Bahar döneminin ardından **Profesyonel Yapay Zeka Eğitim Kampı**'na kayıt olacağım.</p>
+            <p>Odak Alanları: Python, Gelişmiş Veri Yapıları ve Büyük Veri Analitiği.</p>
         </section>
     </main>
 
     <div style="display:none;">
-        <p>This repository showcases technical studies in Python and Web Development.</p>
-        <p>Advanced implementations of data structures and algorithmic efficiency.</p>
-        <p>Integration of economic modeling with modern software engineering practices.</p>
-        <p>Professional development in Big Data Analytics and AI frameworks.</p>
-        <p>Comprehensive portfolio for software engineering and data analysis roles.</p>
+        <p>Technical Documentation: This repository serves as a professional hub for high-precision software development and data analysis.</p>
+        <p>Key focus: Integrating economic modeling with Python-based data structures and algorithmic efficiency.</p>
+        <p>Comprehensive studies on big data analytics, econometric tools, and advanced web technologies including HTML5, CSS3, and JavaScript.</p>
+        <p>Educational background highlights a 3.93 GPA in Web Design and Coding and ongoing Bachelor's studies in Economics.</p>
+        <p>Preparation for Professional Artificial Intelligence Boot Camp post-spring semester.</p>
+        <p>The synergy between software engineering and data science is explored through various modules in this repository.</p>
     </div>
 </body>
 </html>
