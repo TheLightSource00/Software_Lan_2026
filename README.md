@@ -54,7 +54,5 @@ Akademik dürüstlük ve veri hassasiyeti çerçevesinde aşağıdaki alanlarda 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheLightSource00&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLightSource00&layout=compact&theme=radical)
-
 
 ![snake](https://raw.githubusercontent.com/TheLightSource00/Software_Lan_2026/output/github-contribution-grid-snake.svg)
