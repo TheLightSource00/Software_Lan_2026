@@ -15,6 +15,8 @@ Technical journal covering my education at two universities and my preparatory w
 
 ---
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheLightSource00&show_icons=true&theme=radical)
+
 ## 🚀 On My Way to Goals
 Currently focusing on dual-degree university education and AI bootcamp preparations.
 
