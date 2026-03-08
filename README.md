@@ -49,5 +49,12 @@ Akademik dürüstlük ve veri hassasiyeti çerçevesinde aşağıdaki alanlarda 
 [![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
+​AI Camp Prep: ![Status](https://img.shields.io/badge/Status-In--Progress-orange)
+​Data Analysis: ![Focus](https://img.shields.io/badge/Focus-Active-green)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheLightSource00&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLightSource00&layout=compact&theme=radical)
+
 
 ![snake](https://raw.githubusercontent.com/TheLightSource00/Software_Lan_2026/output/github-contribution-grid-snake.svg)
