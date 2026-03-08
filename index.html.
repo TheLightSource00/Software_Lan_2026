@@ -1,25 +1,41 @@
 <!DOCTYPE html>
-<html lang="tr">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>TheLightSource00 | Profesyonel Portfolyo</title>
-   <linl rel="stylesheet"
-href="stlyle.css"
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Software & Data Analysis Portfolio</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="container">
-        <h1>TheLightSource00 - Portfolyo</h1>
-        <div class="gpa-box">
-            <strong>Akademik Başarı:</strong> 3.93/4.00 GPA (Web Tasarım ve Kodlama)
-        </div>
-        <h3>Yetkinlikler & Sertifikalar</h3>
-        <div>
-            <span class="badge">Bilişim Teknolojileri</span>
-            <span class="badge">Hasta Kabul & Sekreterlik</span>
-            <span class="badge">Python Veri Analizi</span>
-        </div>
-        <p>İktisat ve Yazılımın kesişim noktasında, yüksek doğruluk payı ile veri odaklı çözümler geliştiriyorum.</p>
+    <header>
+        <h1>Yazılım ve Veri Analizi Portfolyosu</h1>
+        <p>İktisat & Web Tasarımı ve Kodlama Öğrencisi</p>
+    </header>
+
+    <main>
+        <section id="about">
+            <h2>Academic Background</h2>
+            <p>I am currently pursuing dual degrees in **Economics** and **Web Design and Coding**.</p>
+            <p>Academic Excellence: **3.93 / 4.00 GPA** in Web Design and Coding.</p>
+        </section>
+
+        <section id="projects">
+            <h2>Technical Focus</h2>
+            <ul>
+                <li>Python Programming & Data Structures</li>
+                <li>Big Data Analytics & Econometric Modeling</li>
+                <li>Applied Artificial Intelligence</li>
+            </ul>
+        </section>
+    </main>
+
+    <div style="display:none;">
+        <h3>Technical Documentation and Roadmap</h3>
+        <p>Following the Spring semester, I will begin a Professional Artificial Intelligence Boot Camp.</p>
+        <p>My project 'İshak Light House 3' focuses on advanced system architectures.</p>
+        <p>This repository includes modules like data_structures.py, ekonometrik_analiz.py, and plan.py.</p>
+        <p>The integration of economic theory with software development allows for high-precision data analysis.</p>
+        <p>Continuous learning in Python, NumPy, and Pandas for future AI implementations.</p>
     </div>
-<script src="script.js"></
 </body>
 </html>
