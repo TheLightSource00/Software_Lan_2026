@@ -2,10 +2,11 @@
 
 Technical journal covering my education at two universities and my preparatory work for the AI camp I will attend at the spring semester.
 
-## 🎯 Goals & Roadmap
-   Current:  Studying Computer Science/Software Engineering fundamentals across two universities.
-   Upcoming: Professional AI Bootcamp (Starting after spring semester).
-   Focus:  Python, Data structures, and Big Data Analytics.
+## 🎯 Goals and Roadmap
+* **Current Status:** Pursuing dual degrees in **Web Design and Coding** and **Economics (Bachelors)**.
+* **Upcoming Milestone:** Enrolling in a **Professional Artificial Intelligence Boot Camp** (Following the Spring semester).
+* **Core Focus Areas:** Python, Data Structures, and Big Data Analytics.
+
 
 ## 🛠 Repository Content
 
