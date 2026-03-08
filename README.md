@@ -52,6 +52,7 @@ Akademik dürüstlük ve veri hassasiyeti çerçevesinde aşağıdaki alanlarda 
 ### 🚀 Current Focus & Status
 **Yapay Zeka Kampı Hazırlığı:** [![Status](https://img.shields.io/badge/Status-In--Progress-orange)](https://github.com/TheLightSource00/Software_Lan_2026/blob/main/plan.py)
 
+**Veri Analizi Çalışmaları:** [![Focus](https://img.shields.io/badge/Focus-Active-green)](ekonometrik.py)
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheLightSource00&theme=radical)
